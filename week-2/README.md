@@ -130,8 +130,6 @@ No prep for tomorrow.
 ## Thursday
 ### OOP Practice
 
-### Career Talk at 4:30 PM
-
 ### Core
 
 **Challenges**
@@ -156,6 +154,8 @@ No prep for tomorrow.
 
 ## Friday
 ### Group Projects
+
+Career Talk at 1:10 PM (directly following 1:00 Announcements)
 
 ### Core
 
