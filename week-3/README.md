@@ -19,7 +19,7 @@
 
 ## Groups ##
 
-[Week 3 groups](../../../wiki/groups.md#week-3)
+[Week 3 groups](../../../wiki/Groups#week-3)
 
 ---
 
