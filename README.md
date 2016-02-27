@@ -47,6 +47,10 @@
   - Week 1 - Introverts & Extroverts, Friday at 9:15am
   - Week 2 - The Inner Critic
   - Week 3 - Empathy and Authenticity
+- Career Talks: Friday at 1:15 PM
+  - Week 1: [Intro to Careers](../../../chi-career-phase-guide#session1)
+  - Week 2: [Resumes](../../../chi-career-phase-guide#session2)
+  - Week 3: [LinkedIn & DevConnect](../../../chi-career-phase-guide#session3)
 - Improv Experience: Week 2, Tuesday at 6pm
 - Assessment: Week 3, Wednesday
   - "The Challenge" - 8:15am - 11:45am
