@@ -18,7 +18,7 @@
 
 ## Groups ##
 
-[Week 1 groups](../../../wiki/groups.md#week-1)
+[Week 1 groups](../../../wiki/Groups#week-1)
 
 ---
 
