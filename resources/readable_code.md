@@ -5,7 +5,7 @@
 - What have we been learning?
 - What obstacles have you encountered?
 
-Bucket questions/topic suggestions into Punt, Research, Lecture.
+Bucket questions/topic suggestions into Punt, Research, Breakout.
 
 ## Meta-learning (5 min)
 
