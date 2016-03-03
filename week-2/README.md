@@ -148,7 +148,6 @@ No prep for tomorrow.
 **Challenges**
 
 - [Ruby Todos 2](../../../../ruby-todos-2-0-additional-features-challenge) 1.5hs
-- [Design Drill: Object Composition](../../../../design-drill-object-composition-challenge) 2hs
 
 ---
 
@@ -170,8 +169,6 @@ Career Talk at 1:10 PM (directly following 1:00 Announcements)
 ### Stretch
 
 **Challenges**
-
-- [Ruby Flashcards 2 MVC Pattern More](../../../../ruby-flashcards-2-mvc-pattern-more-challenge)
 
 ### Additional Resources
 - [Managing dependencies](./resources/oop-managing-dependencies.md)
