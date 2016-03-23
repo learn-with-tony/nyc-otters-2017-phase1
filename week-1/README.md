@@ -117,10 +117,6 @@
 
 ### Core
 
-**Workshop**
-
-[Iteration and Recursion](../resources/lectures.md#iteration-and-recursion)
-
 **Challenges**
 
 - [Algorithm Drill: Factorial](../../../../algorithm-drill-factorial-challenge)
@@ -164,7 +160,7 @@
 
 **Workshop**
 
-[Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
+Object and References
 
 **Challenges**
 
@@ -201,10 +197,6 @@
 ### Sudoku
 
 ### Core
-
-**Workshop**
-
-[Sudoku & Group Dynamics](../resources/lectures.md#sudoku-workshop)
 
 **Challenges**
 

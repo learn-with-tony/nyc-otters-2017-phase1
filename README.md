@@ -78,7 +78,6 @@ Time    | Activity
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Daily Schedules](resources/daily_schedules.md)
 - [Learning Competencies](resources/competencies.md)
-- [Lecture Topics](resources/lectures.md)
 - [External Resources](resources/resources.md)
 - [Phase Schedule](resources/schedule.md)
 - [Working Agreement](resources/working-agreement.md)

@@ -7,11 +7,9 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 * Check in with accountability buddies
 * Announcements
 * Yoga
-* Morning Lecture
 * Challenges
 * Lunch
 * Announcements
-* Afternoon Lecture
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -22,12 +20,10 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 
 * Check in with accountability buddies
 * Announcements
-* Morning Lecture
 * Challenges
 * Engineering Empathy
 * Lunch
 * Announcements
-* Afternoon Lecture
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -37,11 +33,9 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 * Check in with accountability buddies
 * Announcements
 * Yoga
-* Morning Lecture
 * Challenges
 * Lunch
 * Announcements
-* Afternoon Lecture
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -60,13 +54,12 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 * End of core hours
 * Challenges, Optimize your learning
 
-*There is no assessment on the first Thursday of the phase. Instead, there will be a morning lecture followed by time to work on the day's challenges.*
+*There is no assessment on the first Thursday of the phase.*
 
 
 ## Friday
 * Check in with accountability buddies
 * Announcements
-* Morning Lecture
 * Group Challenge
 * Lunch
 * Announcements

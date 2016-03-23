@@ -28,10 +28,6 @@
 
 ### Core
 
-**Lecture**
-
-[Sudoku Recap & Introduction to OOP](../resources/lectures.md#introduction-to-oop)
-
 **Challenges**
 
 - [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)

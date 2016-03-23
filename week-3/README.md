@@ -28,10 +28,6 @@
 
 ### Core
 
-**Lecture**
-
-[Schema Design Workshop](../resources/lectures.md#schema-design-workshop)
-
 **Challenges**
 
 - [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  _Switch driver/navigator roles on every question!_
