@@ -36,6 +36,7 @@
 - [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
 - [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 - [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
+- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 
 **Prep for Tomorrow**
 
@@ -63,7 +64,6 @@
 
 **Challenges**
 
-- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 - [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 - [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
