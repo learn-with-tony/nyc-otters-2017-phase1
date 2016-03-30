@@ -64,8 +64,8 @@
 
 **Challenges**
 
-- [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
 - [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 **Prep for Tomorrow**
