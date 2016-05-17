@@ -88,8 +88,8 @@
 
 ### Additional Resources
 
-- [Executing SQL using Ruby example](./resources/sql-in-ruby.md)
-- [Ruby and SQLite demystified](.resources/sql-ruby-sqlite3-demystified.md)
+- [Executing SQL using Ruby example](../resources/sql-in-ruby.md)
+- [Ruby and SQLite demystified](../resources/sql-ruby-sqlite3-demystified.md)
 - [Wikipedia on Object-relational mapping](http://en.wikipedia.org/wiki/Object-relational_mapping)
 - [A few thoughts on assessment anxiety at DBC](https://dukegreene.wordpress.com/2014/07/30/the-storm-before-the-calm/)
 
