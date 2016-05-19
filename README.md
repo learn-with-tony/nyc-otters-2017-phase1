@@ -50,7 +50,7 @@
 - Career Talks: Tuesdays at 1:15 PM
   - Week 1: [Intro to Careers](../../../chi-career-phase-guide#session1)
   - Week 2: None
-  - Week 3: [What's Your Story](../../../chi-career-phase-guide#session3)
+  - Week 3: What's Your Story
 - Improv Experience: Week 2, Tuesday at 6pm
 - Assessment: Week 3, Wednesday
   - "The Challenge" - 8:15am - 11:45am
