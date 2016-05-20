@@ -33,9 +33,9 @@
 - [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  _Switch driver/navigator roles on every question!_
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
 - [Poll Database Design](../../../../poll-database-design-challenge)
-- [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
+- [Poll DB 1: Queries](../../../../sql-voting-results-retrieving-data-challenge)
 - [University DB Schema](../../../../university-course-database-design-challenge)
-- [Poll DB 2: Modifying Data](../../../../poll-db-2-modifying-data-challenge)
+- [Poll DB 2: Modifying Data](../../../../sql-voting-results-modifying-data-challenge)
 
 **Prep for Tomorrow**
 
