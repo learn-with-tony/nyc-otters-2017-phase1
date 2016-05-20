@@ -34,7 +34,7 @@
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
 - [Poll Database Design](../../../../poll-database-design-challenge)
 - [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
-- [Database Drill: Prepared Statements](../../../../prepared-statements-challenge)
+- [University DB Schema](../../../../university-course-database-design-challenge)
 - [Poll DB 2: Modifying Data](../../../../poll-db-2-modifying-data-challenge)
 
 **Prep for Tomorrow**
@@ -67,8 +67,8 @@
 
 **Challenges**
 
+- [Database Drill: Prepared Statements](../../../../prepared-statements-challenge)
 - [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
-- [University DB Schema](../../../../university-course-database-design-challenge)
 - [Address Book DB from Schema](../../../../address-book-db-from-schema-challenge)
 - [Active Record Jr. Part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
 
