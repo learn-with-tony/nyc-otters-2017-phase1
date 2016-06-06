@@ -152,7 +152,7 @@ No prep for tomorrow.
 ## Friday
 ### Group Projects
 
-Career Talk at 1:10 PM (directly following 1:00 Announcements)
+
 
 ### Core
 
