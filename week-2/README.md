@@ -60,7 +60,6 @@
 ## Tuesday
 ### Object Oriented Design with Inheritance and Composition
 
-## Careers Talk after 1pm standup
 
 ### Core
 
