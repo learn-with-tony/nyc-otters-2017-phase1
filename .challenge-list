@@ -1,5 +1,4 @@
 99-bottles-challenge
-activerecord-design-your-own-challenge
 active-record-drill-model-a-student-challenge
 active-record-intro-belongs-to-association-challenge
 active-record-intro-code-base-challenge
@@ -10,13 +9,14 @@ active-record-intro-inserting-records-challenge
 active-record-intro-objects-challenge
 active-record-intro-retrieving-records-challenge
 active-record-intro-validations-challenge
-active-record-legislators-challenge
 active-record-legislator-tweets-challenge
+active-record-legislators-challenge
+active-record-todos-challenge
+activerecord-design-your-own-challenge
 activerecord-jr-1-a-basic-orm-challenge
 activerecord-jr-2-sql-be-gone-challenge
 activerecord-jr-3-pragmatism-challenge
 activerecord-jr-4-metaprogramming-challenge
-active-record-todos-challenge
 activerecord-todos-part-2-challenge
 address-book-db-from-schema-challenge
 algorithm-drill-binary-search-challenge
@@ -24,6 +24,8 @@ algorithm-drill-factorial-challenge
 algorithm-drill-linear-search-challenge
 algorithm-drill-prime-factors-challenge
 algorithm-drill-shuffle-challenge
+algorithms-and-oo-checkpoint-challenge
+alt-algorithms-and-oo-checkpoint-challenge
 anagrams-1-detecting-anagrams-challenge
 anagrams-2-generating-anagrams-challenge
 ar-skeleton
@@ -31,6 +33,7 @@ battleship-challenge
 binary-vs-linear-searching-challenge
 boggle-1-basic-board-generation-challenge
 boggle-2-word-checker-challenge
+cheering-mascot-challenge
 combating-smells-extract-method-challenge
 congress-database-1-from-csv-to-sqlite-with-ruby-challenge
 congress-database-2-scrub-and-analyze-with-ruby-challenge
@@ -51,7 +54,6 @@ database-drill-sqlite-shell-part-2-challenge
 database-drill-student-roster-challenge
 db-drill-address-book-schema-challenge
 db-drill-ar-symmetric-migrations-challenge
-cheering-mascot-challenge
 debugging-drill-read-the-error-challenge
 debugging-drill-use-a-repl-challenge
 design-drill-argument-order-dependency-challenge
@@ -80,8 +82,6 @@ parsing-data-2-csv-in-anything-out-challenge
 perfecting-pairing-challenge
 pig-latin-challenge
 poll-database-design-challenge
-sql-voting-results-retrieving-data-challenge
-sql-voting-results-modifying-data-challenge
 prepared-statements-challenge
 prime-factors-sieve-of-eratosthenes-challenge
 quad-ruby-meets-samuel-beckett-challenge
@@ -112,6 +112,8 @@ ruby-todos-2-0-additional-features-challenge
 scraping-hn-1-building-objects-challenge
 scraping-hn-2-saving-to-csv-challenge
 simple-benchmarking-with-blocks-challenge
+sql-voting-results-modifying-data-challenge
+sql-voting-results-retrieving-data-challenge
 student-handbook
 student-roster-db-from-schema-challenge
 sudoku-challenge
@@ -121,5 +123,3 @@ two-truths-and-a-lie
 university-course-database-design-challenge
 words-in-a-file-challenge
 world-s-simplest-browser-challenge
-algorithms-and-oo-checkpoint-challenge
-alt-algorithms-and-oo-checkpoint-challenge
