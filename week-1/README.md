@@ -72,6 +72,8 @@
 ## Tuesday
 ### Testing with RSpec and Enumerables
 
+## Careers Talk after 1pm standup
+
 ### Core
 
 **Challenges**
