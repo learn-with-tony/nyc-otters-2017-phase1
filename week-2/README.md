@@ -191,7 +191,7 @@ No prep for tomorrow.
 
 **Prep for Monday**
 
-- Finish reading [Practical Object Oriented Programming in Ruby](https://www.dropbox.com/s/82gx9sf00vmonad/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/sh/cyje5e6cfk708al/USop5LBSQA).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.
+- Finish reading [Practical Object Oriented Programming in Ruby](http://www.poodr.com/).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.
 - [Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 
 ### Stretch
