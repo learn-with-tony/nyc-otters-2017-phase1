@@ -48,7 +48,7 @@
   - Week 2 - The Inner Critic
   - Week 3 - Empathy and Authenticity
 - Careers:
-  - Week 2 & 3: 1:1s with students (sign up for a slot!)
+  - Week 2 & 3: 1:1s with students (you must [sign up](http://bit.ly/24KtYGE) signup for a slot!)
 - Improv Experience: Week 2, Tuesday at 6pm
 - Assessment: Week 3, Wednesday
   - "The Challenge" - 8:15am - 11:45am
