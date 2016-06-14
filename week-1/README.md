@@ -74,7 +74,7 @@
 
 ### Core
 
-You should have received an email from careers. Make sure you sign up for a one-on-one appointment with them today.
+You should have received an email from careers. Make sure you [sign up](http://bit.ly/24KtYGE) for a one-on-one appointment with them today.
 
 **Challenges**
 
