@@ -72,9 +72,9 @@
 ## Tuesday
 ### Testing with RSpec and Enumerables
 
-## Careers Talk after 1pm standup
-
 ### Core
+
+You should have received an email from careers. Make sure you sign up for a one-on-one appointment with them today.
 
 **Challenges**
 
