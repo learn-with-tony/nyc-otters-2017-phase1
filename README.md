@@ -71,7 +71,7 @@ Time    | Activity
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
-- [Pair Check-in Tips](resources/pair_checkin_tips.md)
+- [Pair Check-in Tips](resources/pair-checkin-tips.md)
 - [Counseling Session Signup](resources/counseling_instructions.md)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Daily Schedules](resources/daily_schedules.md)
