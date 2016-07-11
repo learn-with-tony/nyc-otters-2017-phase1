@@ -92,6 +92,7 @@ You should have received an email from careers. Make sure you [sign up](http://b
 
 **Prep for Tomorrow**
 
+- [How Much Time Do We Truly Spend Coding?](https://talks.devbootcamp.com/how-much-time-do-we-truly-spend-coding) (Watch at least the first five minutes)
 - [Writing Readable Code](../readings/writing-readable-code/README.md)
 
 ### Stretch
