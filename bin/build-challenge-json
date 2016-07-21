@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+require 'pathname'
+require 'json'
+
+#TODO(matt): account for student-handbook. Hemlock?
+#TODO(matt): temporarily generate .challenge-list as well?
+
+def build_challenge_json(path)
+  repo = File.expand_path(path)
+  config_dir = "#{repo}/config"
+  glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend}.md"
+  challenge_pattern = /([^\/]*-challenge)\)/
+  challenges = Hash.new do |guide, week|
+    guide[week] = Hash.new { |week, day| week[day] = [] }
+  end
+
+  Dir.glob(glob_pattern).each do |file|
+    path = Pathname.new(file)
+    week = path.parent.basename
+    day = path.basename(".md")
+    matches = path.open {|f| f.read.scan(challenge_pattern).flatten }
+    challenges[week][day] += matches
+  end
+  JSON.pretty_generate(challenges)
+end
+
+if __FILE__ == $0
+  STDOUT.puts build_challenge_json(ARGV[0])
+end

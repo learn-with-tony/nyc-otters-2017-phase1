@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+
+#To test this without commiting, run...
+# $ GIT_DIR=.git bin/pre-commit
+#... in your shell from the phase guide root.
+
+PROJECT_DIR=$GIT_DIR/..
+NEW_JSON="$($PROJECT_DIR/bin/build-challenge-json $PROJECT_DIR)"
+PRECOMMIT_EXIT_STATUS=$?
+CHALLENGES_CONFIG_PATH="$PROJECT_DIR/config"
+
+function precommit_warning () {
+  echo "You can skip the pre-commit hook with 'git commit --no-verify'."
+  echo "If you skip it, please have a good reason, and please note it in the PR."
+}
+
+if [ $PRECOMMIT_EXIT_STATUS -eq 0 ]; then
+  CHALLENGE_JSON_PATH="$CHALLENGES_CONFIG_PATH/challenges.json"
+  echo -e "$NEW_JSON" > "$CHALLENGE_JSON_PATH"
+  git add "$CHALLENGE_JSON_PATH"
+  if [ $? -ne 0 ]; then
+    echo "Could not stage config/challenge.json, git exited with non-0 status."
+    precommit_warning
+    exit 1
+  fi
+else
+  echo "Pre-commit script exited with non-0 status."
+  precommit_warning
+  exit $PRECOMMIT_EXIT_STATUS
+fi
