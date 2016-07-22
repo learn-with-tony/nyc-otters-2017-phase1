@@ -22,7 +22,6 @@
 
 **Challenges**
 
-- [Advanced Calculator](../../../../advanced-calculator-challenge)
 - [Ruby Meets Samuel Beckett](../../../../quad-ruby-meets-samuel-beckett-challenge)
 - [Linear vs. Binary Search](../../../../binary-vs-linear-searching-challenge)
 - [Prime Factors: Sieve of Eratosthenes](../../../../prime-factors-sieve-of-eratosthenes-challenge)
