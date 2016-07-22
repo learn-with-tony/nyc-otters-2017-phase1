@@ -5,7 +5,7 @@
 #... in your shell from the phase guide root.
 
 PROJECT_DIR=$GIT_DIR/..
-NEW_JSON="$($PROJECT_DIR/bin/build-challenge-json $PROJECT_DIR)"
+NEW_JSON="$($PROJECT_DIR/bin/build-challenge-json --nested $PROJECT_DIR)"
 PRECOMMIT_EXIT_STATUS=$?
 CHALLENGES_CONFIG_PATH="$PROJECT_DIR/config"
 

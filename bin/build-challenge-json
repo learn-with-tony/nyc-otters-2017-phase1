@@ -21,9 +21,22 @@ def build_challenge_json(path)
     matches = path.open {|f| f.read.scan(challenge_pattern).flatten }
     challenges[week][day] += matches
   end
-  JSON.pretty_generate(challenges)
+
+  challenges
+end
+
+def flatten_challenge_hash(challenges)
+  challenges.values.map(&:values).flatten.uniq.sort
 end
 
 if __FILE__ == $0
-  STDOUT.puts build_challenge_json(ARGV[0])
+  challenge_list = build_challenge_json(ARGV[1])
+
+  if ARGV[0] == "--flat"
+    flat = flatten_challenge_hash(challenge_list)
+    flat << "student-handbook" #Temporary
+    STDOUT.puts flat.join("\n")
+  elsif ARGV[0] == "--nested"
+    STDOUT.puts JSON.pretty_generate(challenge_list)
+  end
 end
