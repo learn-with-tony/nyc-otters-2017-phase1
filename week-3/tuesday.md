@@ -1,8 +1,6 @@
 ## Tuesday
 ### SQL and Ruby Integration
 
-## Careers Talk after 1pm standup
-
 ### Core
 
 **Challenges**
