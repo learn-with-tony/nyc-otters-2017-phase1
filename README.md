@@ -39,9 +39,9 @@
   </tr>
 </table>
 
-## Groups
+## Weekly Groups
 
-[Groups](../../../wiki/Groups)
+See [the wiki](../../../wiki/Groups) for your weekly groups.
 
 ## Weekly Cadence
 
