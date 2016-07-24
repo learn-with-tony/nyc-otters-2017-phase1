@@ -1,30 +1,35 @@
-#!/usr/bin/env bash
+#!/usr/bin/env ruby
 
-#To test this without commiting, run...
-# $ GIT_DIR=.git bin/pre-commit
-#... in your shell from the phase guide root.
+require_relative 'phase_config'
 
-PROJECT_DIR=$GIT_DIR/..
-NEW_JSON="$($PROJECT_DIR/bin/build-challenge-json --nested $PROJECT_DIR)"
-PRECOMMIT_EXIT_STATUS=$?
-CHALLENGES_CONFIG_PATH="$PROJECT_DIR/config"
 
-function precommit_warning () {
-  echo "You can skip the pre-commit hook with 'git commit --no-verify'."
-  echo "If you skip it, please have a good reason, and please note it in the PR."
-}
+def warn_and_exit(e)
+  STDERR.puts "Pre-commit failed: #{e}\n"
+  STDERR.puts "You can skip the pre-commit hook with 'git commit --no-verify'."
+  STDERR.puts "If you skip it, please have a good reason, and please note it in the PR."
+  exit(1)
+end
 
-if [ $PRECOMMIT_EXIT_STATUS -eq 0 ]; then
-  CHALLENGE_JSON_PATH="$CHALLENGES_CONFIG_PATH/challenges.json"
-  echo -e "$NEW_JSON" > "$CHALLENGE_JSON_PATH"
-  git add "$CHALLENGE_JSON_PATH"
-  if [ $? -ne 0 ]; then
-    echo "Could not stage config/challenge.json, git exited with non-0 status."
-    precommit_warning
-    exit 1
-  fi
-else
-  echo "Pre-commit script exited with non-0 status."
-  precommit_warning
-  exit $PRECOMMIT_EXIT_STATUS
-fi
+begin
+  PROJECT_DIR = File.join(ENV["GIT_DIR"], "..")
+  CONFIG_DIR = File.join(PROJECT_DIR, "config")
+  JSON_CONFIG_PATH = File.join(CONFIG_DIR, "challenges.json")
+  LIST_CONFIG_PATH = File.join(PROJECT_DIR, ".challenge-list")
+
+  json = JSON.pretty_generate(PhaseConfig::challenges_as_hash(PROJECT_DIR))
+  flat = PhaseConfig::challenges_as_list(PROJECT_DIR).join("\n")
+
+  File.open(JSON_CONFIG_PATH, "w") {|f| f.write(json)}
+  File.open(LIST_CONFIG_PATH, "w") {|f| f.write(flat)}
+
+  git_add_cmd = "git add #{JSON_CONFIG_PATH} #{LIST_CONFIG_PATH}"
+  git_add_result = `#{git_add_cmd}`
+  if $? == false
+    err = "Failed to stage config files: #{git_add_cmd}\n"
+    err << "git exited with non-0 status.\n"
+    err << git_add_result
+    warn_and_exit(err)
+  end
+rescue Exception => e
+  warn_and_exit(e)
+end

@@ -20,8 +20,7 @@
       "implement-enumerable-challenge",
       "ruby-drill-destructive-methods-challenge",
       "algorithm-drill-shuffle-challenge",
-      "words-in-a-file-challenge",
-      "combating-smells-extract-method-challenge"
+      "words-in-a-file-challenge"
     ],
     "wednesday": [
       "algorithm-drill-factorial-challenge",
@@ -53,8 +52,6 @@
       "sudoku-challenge"
     ],
     "weekend": [
-      "review-abstract-data-structures-challenge",
-      "review-calculating-subsets-with-recursion-challenge",
       "review-reflect-and-iterate-challenge",
       "review-reflect-on-learning-challenge",
       "review-revisit-roman-numeral-challenge"
@@ -99,7 +96,6 @@
       "database-drill-one-to-one-schema-challenge",
       "database-drill-many-to-many-schema-challenge",
       "db-drill-address-book-schema-challenge",
-      "database-drill-intro-to-sqlite-challenge",
       "mastermind-challenge",
       "p5-oo-inheritance-challenge",
       "p6-oo-terminology-challenge"

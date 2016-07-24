@@ -28,7 +28,6 @@ algorithms-and-oo-checkpoint-challenge
 alt-algorithms-and-oo-checkpoint-challenge
 anagrams-1-detecting-anagrams-challenge
 anagrams-2-generating-anagrams-challenge
-ar-skeleton
 battleship-challenge
 binary-vs-linear-searching-challenge
 boggle-1-basic-board-generation-challenge
@@ -63,7 +62,6 @@ design-drill-method-chaining-challenge
 design-drill-public-vs-private-interfaces-challenge
 design-drill-translate-to-pseudocode-challenge
 design-your-own-database-challenge
-dictionary-sort-challenge
 family-tree-database-design-challenge
 forum-database-design-challenge
 hospital-interface-challenge
@@ -79,7 +77,6 @@ p5-oo-inheritance-challenge
 p6-oo-terminology-challenge
 parsing-data-1-csv-in-csv-out-challenge
 parsing-data-2-csv-in-anything-out-challenge
-perfecting-pairing-challenge
 pig-latin-challenge
 poll-database-design-challenge
 prepared-statements-challenge
@@ -89,10 +86,6 @@ recursion-vs-iteration-benchmarking-it-challenge
 reddit-jr-database-design-challenge
 review-abstract-data-structures-challenge
 review-calculating-subsets-with-recursion-challenge
-review-enumerable-methods-challenge
-review-others-refactor-yours-challenge
-review-others-refactor-yours-deaf-grandma-roman-numerals-challenge
-review-others-refactor-yours-week-2-challenge
 review-reflect-and-iterate-challenge
 review-reflect-on-learning-challenge
 review-revisit-roman-numeral-challenge
@@ -119,7 +112,6 @@ student-roster-db-from-schema-challenge
 sudoku-challenge
 the-fibonacci-sequence-challenge
 the-rational-numbers-challenge
-two-truths-and-a-lie
 university-course-database-design-challenge
 words-in-a-file-challenge
 world-s-simplest-browser-challenge
