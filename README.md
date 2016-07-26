@@ -9,35 +9,39 @@
   </tr>
 
   <tr>
-    <td><a href="./week-1/">Week 1 - Algorithms and Coder's Mindset</a></td>
-    <td><a href="./week-1#monday">Monday</a></a></td>
-    <td><a href="./week-1#tuesday">Tuesday</a></td>
-    <td><a href="./week-1#wednesday">Wednesday</a></td>
-    <td><a href="./week-1#thursday">Thursday</a></td>
-    <td><a href="./week-1#friday">Friday</a></td>
-    <td><a href="./week-1#weekend">Weekend</a></td>
+    <td>Week 1 - Algorithms and Coder's Mindset</td>
+    <td><a href="./week-1/monday.md">Monday</a></a></td>
+    <td><a href="./week-1/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-1/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-1/thursday.md">Thursday</a></td>
+    <td><a href="./week-1/friday.md">Friday</a></td>
+    <td><a href="./week-1/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
-    <td><a href="./week-2">Week 2 - Object Oriented Programming</a></td>
-    <td><a href="./week-2#monday">Monday</a></a></td>
-    <td><a href="./week-2#tuesday">Tuesday</a></td>
-    <td><a href="./week-2#wednesday">Wednesday</a></td>
-    <td><a href="./week-2#thursday">Thursday</a></td>
-    <td><a href="./week-2#friday">Friday</a></td>
-    <td><a href="./week-2#weekend">Weekend</a></td>
+    <td>Week 2 - Object Oriented Programming</td>
+    <td><a href="./week-2/monday.md">Monday</a></td>
+    <td><a href="./week-2/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-2/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-2/thursday.md">Thursday</a></td>
+    <td><a href="./week-2/friday.md">Friday</a></td>
+    <td><a href="./week-2/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
-    <td><a href="./week-3">Week 3 - Databases</a></td>
-    <td><a href="./week-3#monday">Monday</a></a></td>
-    <td><a href="./week-3#tuesday">Tuesday</a></td>
-    <td><a href="./week-3#wednesday">Wednesday</a></td>
-    <td><a href="./week-3#thursday">Thursday</a></td>
-    <td><a href="./week-3#friday">Friday</a></td>
-    <td><a href="./week-3#weekend">Weekend</a></td>
+    <td>Week 3 - Databases</td>
+    <td><a href="./week-3/monday.md">Monday</a></td>
+    <td><a href="./week-3/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-3/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-3/thursday.md">Thursday</a></td>
+    <td><a href="./week-3/friday.md">Friday</a></td>
+    <td><a href="./week-3/weekend.md">Weekend</a></td>
   </tr>
 </table>
+
+## Weekly Groups
+
+See [the wiki](../../../wiki/Groups) for your weekly groups.
 
 ## Weekly Cadence
 
