@@ -17,6 +17,7 @@ Object and References
 
 **Prep for Tomorrow**
 
+- **[Your first week: On being a student at Dev Bootcamp](../readings/being-at-dev-bootcamp.md)**
 - [Single Responsibility Methods](../readings/single-responsibility-methods/README.md)
 
 ### Stretch
