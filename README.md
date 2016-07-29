@@ -41,7 +41,7 @@
 
 ## Weekly Groups
 
-See [the wiki](../../../wiki/Groups) for your weekly groups.
+See [the wiki](../../wiki/Groups) for your weekly groups.
 
 ## Weekly Cadence
 
