@@ -11,7 +11,7 @@ First, we assume the following:
  * You're here because you want to learn
  * You're here to work hard because _you_ want to, not because we tell you to
 
-Dev Bootcamp looks a lot like a school, but the truth is it's something very different. There are no grades, no degrees, and no certificates of completion. The only thing you will leave this place with is the ability to learn technical material quickly, effectively, and with minimal guidance. These are the qualities you must strive to develop, and they are some of the crucial qualities that set great junior developers apart from their peers. We can't supply you with motivation, the only way to be successful here is to _want_ to be here.
+Dev Bootcamp looks a lot like a school, but the truth is it's something very different. There are no grades and no degrees. The only thing you will leave this place with is the ability to learn technical material quickly, effectively, and with minimal guidance. These are the qualities you must strive to develop, and they are some of the crucial qualities that set great junior developers apart from their peers. We can't supply you with motivation, the only way to be successful here is to _want_ to be here.
 
 There is no metric for "done" at Dev Bootcamp because your work is never done. Finishing your cores doesn't mean you're "done" because there are stretch challenges. Finishing stretch challenges doesn't mean you're "done" because you can start a side-project. Finishing a side-project doesn't mean you're "done" because our code is never done — with guidance, it can always be improved.
 
