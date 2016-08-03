@@ -13,7 +13,7 @@
 
 * **Week 3 : Databases**
 
-  In Week 3, students begin working with databases.  Over the weekend between Weeks 2 and 3, students work through a handful of schema design challenges, and schema design remains a focus throughout the week.  In working with a database, students begin on Monday by using SQL, running through a number of [query drills](https://socrates.devbootcamp.com/sql_tests) before completing challenges.  On Tuesday, students begin working with Ruby to interact with a database and on Wednesday write their own object-relational mappers.  On Thursday and Friday, students are working with Active Record.
+  In Week 3, students begin working with databases.  Over the weekend between Weeks 2 and 3, students work through a handful of schema design challenges, and schema design remains a focus throughout the week.  In working with a database, students begin on Monday by using SQL, running through a number of [query drills](https://sqltutor.devbootcamp.com) before completing challenges.  On Tuesday, students begin working with Ruby to interact with a database and on Wednesday write their own object-relational mappers.  On Thursday and Friday, students are working with Active Record.
 
 
 
