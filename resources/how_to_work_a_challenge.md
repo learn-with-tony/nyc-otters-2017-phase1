@@ -32,12 +32,12 @@ We will be using GitHub to submit and review all challenges. This is the standar
   Alyssa Diaz ~
   $
   ```
-- Clone the challenge you plan to work on.
+- Clone the challenge you plan to work on. *Note the repo listed in the example below is just an example.  It's not a real repo.*
 
   *Note*: Use the https url on the DBC workstations.
 
   ```shell
-  $ git clone https://github.com/Devbootcamp/cheering-mascot-challenge.git
+  $ git clone https://github.com/some-organization/example-challenge.git
   ```
 - Create a branch using the following naming convention in the terminal.
 

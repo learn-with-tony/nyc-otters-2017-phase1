@@ -110,6 +110,7 @@ end
 
 ## Additional Resources
 
-- [Rspec Basics from Thoughtbot](https://learn.thoughtbot.com/test-driven-rails-resources/rspec.pdf)
-- [Rspec Matchers from Thoughtbot](https://learn.thoughtbot.com/test-driven-rails-resources/matchers.pdf)
+- [Rspec Basics](../../resources/rspec-basics.md)
+- [Rspec Basics from Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails-resources/rspec.pdf)
+- [Rspec Matchers from Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails-resources/matchers.pdf)
 - [Thorough matchers cheatsheet](https://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf)

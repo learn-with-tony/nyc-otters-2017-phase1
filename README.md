@@ -68,9 +68,10 @@ Time    | Activity
 - [Student Handbook](../../../student-handbook)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
-- [Counseling Session Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)
+- [Counseling Session Signup](<- FILL IN DETAILS HERE ->)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Learning Competencies](resources/competencies.md)
 - [External Resources](resources/resources.md)
 - [Phase Topic Schedule](resources/schedule.md)
 - [Working Agreement](resources/working-agreement.md)
+

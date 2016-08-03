@@ -17,7 +17,7 @@ These resources are also linked from individual challenges.  If you find a resou
 ### Regular Expressions
 
 - [Rubular for testing ruby-style regex online](http://rubular.com/)
-- [Onigurama - Regular Expressions](http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt)
+- [Onigurama - Regular Expressions](https://manual.macromates.com/en/regular_expressions)
 - [The String#=~ method (the one that matches regexes)](http://www.ruby-doc.org/core-1.9.3/String.html#method-i-3D-7E)
 - [Mail::RFC822::Address: regexp-based address validation](http://ex-parrot.com/~pdw/Mail-RFC822-Address.html)
 - [Regex Examples](http://www.regular-expressions.info/examples.html)
@@ -37,7 +37,6 @@ These resources are also linked from individual challenges.  If you find a resou
 
 ## Development Tools
 - [Important RFCs](http://tangentsoft.net/rfcs/)
-- [Favorite IRB tricks](http://stackoverflow.com/questions/123494/whats-your-favourite-irb-trick)
 - [Pry – an IRB Replacement](http://pryrepl.org/)
 - [Rubyists, It's Time to PRY Yourself Off IRB](http://www.sitepoint.com/rubyists-time-pry-irb/)
 
