@@ -1,11 +1,11 @@
-Enumerable
+## Enumerable
 
-all, any, count, each_with_index, find, select, include, map, reduce, sort, sort_by
+`all`, `any`, `count`, `each_with_index`, `find`, `select`, `include`, `map`, `reduce`, `sort`, `sort_by`
 
-Array
+## Array
 
-each, pop, push, shift, unshift, shuffle, sample, uniq
+`each`, `pop`, `push`, `shift`, `unshift`, `shuffle`, `sample`, `uniq`
 
-Hash
+## Hash
 
-each, fetch, keys, values
+`each`, `fetch`, `keys`, `values`
