@@ -1,3 +1,3 @@
 ## Weekend
 
-Your Phase 2 instructors will send you an email containing instructions on how to prepare for the start of Phase 2.
+See the pre-work section of your [Phase 2 guide repo](../../../../phase-2-guide)
