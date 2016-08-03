@@ -36,7 +36,6 @@ These resources are also linked from individual challenges.  If you find a resou
 
 ## Development Tools
 - [Important RFCs](http://tangentsoft.net/rfcs/)
-- [Favorite IRB tricks](http://stackoverflow.com/questions/123494/whats-your-favourite-irb-trick)
 - [Pry – an IRB Replacement](http://pryrepl.org/)
 - [Rubyists, It's Time to PRY Yourself Off IRB](http://www.sitepoint.com/rubyists-time-pry-irb/)
 
