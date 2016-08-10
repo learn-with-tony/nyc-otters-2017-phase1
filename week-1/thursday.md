@@ -11,9 +11,8 @@ Object and References
 
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
+- [Word Search](../../../../ruby-word-search-challenge)
 - [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
-- [Boggle 1: Basic Board Generation](../../../../boggle-1-basic-board-generation-challenge)
-- [Boggle 2: Word Checker](../../../../boggle-2-word-checker-challenge)
 
 **Prep for Tomorrow**
 
@@ -22,6 +21,8 @@ Object and References
 
 ### Stretch
 
+- [Boggle 1: Basic Board Generation](../../../../boggle-1-basic-board-generation-challenge)
+- [Boggle 2: Word Checker](../../../../boggle-2-word-checker-challenge)
 - [Review: Abstract Data Structures](../../../../review-abstract-data-structures-challenge)
 - [Data Drill: Stack and Queue](../../../../data-drill-stack-and-queue-challenge)
 - [Data Drill: Linked List](../../../../data-drill-linked-list-challenge)
