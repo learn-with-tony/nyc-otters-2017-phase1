@@ -89,19 +89,17 @@ We will be using GitHub to submit and review all challenges. This is the standar
     - The master branch should be selected as the base. **Explicitly click it even though it looks like it's selected.**
 
     ![Base](img/pr3.png)
-    - Your branch should be selected as the compare. **Explicitly click it even though it looks like it's selected.**
+    - Your branch should be selected as the compare. **Explicitly click it even though it looks like it's selected. You may need to scroll through the list.**
 
     ![Compare](img/pr4.png)
     - Saying it again.  Even if it looks like the correct branches are already selected, please explicitly select and click them.  There seems to be a bug in these drop downs.
   - Click the Green 'Create Pull Request' Button
   ![Create](img/pr5.png)
-  - Give your pull request a good name and **enter comments only if you want a code review**.
-    - To ask for a code review:
-
-      Mention your instructors explicitly with what might have given you pause or what you might want feedback on as shown in the screen shot below.
+  - Give your pull request a good name.
     ![Comments](img/pr6.png)
   - Click the Green 'Create Pull Request' Button again.
-  - This is something like what you will see.  DO NOT MERGE!
+  - **DO NOT MERGE YOUR PULL REQUEST**
+  - This is something like what you will see.
   ![Complete](img/pr7.png)
 
 ### Troubleshooting a Pull Request
