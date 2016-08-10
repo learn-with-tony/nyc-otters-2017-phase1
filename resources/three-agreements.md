@@ -6,7 +6,7 @@ At Dev Bootcamp, we have three agreements that guide our actions (this includes 
 
 In simplest form, this means being honest. One way to embody integrity is "doing the right thing even when no one is watching."
 
-At Dev Bootcamp, we are asking you to do a crazy thing: to learn how to be a web developer within a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have made Dev Bootcamp successful.
+At Dev Bootcamp, we are asking you to do an incredible thing: to learn how to be a web developer within a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have made Dev Bootcamp successful.
 
 At Dev Bootcamp, we have codes of conduct that support an optimal learning environment and ensure that everyone gets the most out of the program. We expect you to be in integrity with:
 - Showing up on time
