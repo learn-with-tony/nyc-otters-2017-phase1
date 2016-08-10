@@ -50,13 +50,13 @@ def generate_fruit
 end 
 ```
 
-####Original code from World's Dumbest Browser
+####Original code from World's Simplest Browser
 
 
 ```ruby
 class Browser
   def run!
-    puts "Welcome to the dumbest browser in the world"
+    puts "Welcome to the simplest browser in the world"
     print "url>"
     page = gets.chomp
     page = Page.new(page)
@@ -76,7 +76,7 @@ Refactored code:
 module UI
 
   def welcome_prompt
-    puts "Welcome to the dumbest browser in the world"
+    puts "Welcome to the simplest browser in the world"
     print "url>"
   end
 
