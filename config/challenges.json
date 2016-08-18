@@ -40,9 +40,7 @@
     "thursday": [
       "data-drill-nested-arrays-challenge",
       "nested-arrays-2-ruby-for-conversion-and-seeding-challenge",
-      "ruby-racer-1-outrageous-fortune-challenge",
-      "boggle-1-basic-board-generation-challenge",
-      "boggle-2-word-checker-challenge",
+      "ruby-word-search-challenge",
       "review-abstract-data-structures-challenge",
       "data-drill-stack-and-queue-challenge",
       "data-drill-linked-list-challenge",
@@ -64,9 +62,13 @@
       "ruby-drill-the-self-keyword-challenge",
       "ruby-drill-exploring-scope-challenge",
       "orange-tree-1-just-oranges-challenge",
+      "orange-tree-2-groves-challenge",
       "design-drill-argument-order-dependency-challenge",
       "ruby-drill-argv-basics-challenge",
-      "orange-tree-2-groves-challenge"
+      "labyrinth-challenge",
+      "ruby-racer-1-outrageous-fortune-challenge",
+      "boggle-1-basic-board-generation-challenge",
+      "boggle-2-word-checker-challenge"
     ],
     "tuesday": [
       "parsing-data-1-csv-in-csv-out-challenge",

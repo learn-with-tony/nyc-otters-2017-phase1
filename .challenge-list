@@ -68,6 +68,7 @@ forum-database-design-challenge
 hospital-interface-challenge
 imdb-database-design-challenge
 implement-enumerable-challenge
+labyrinth-challenge
 many-to-many-schema-to-database-challenge
 mastermind-challenge
 nested-arrays-2-ruby-for-conversion-and-seeding-challenge
@@ -103,6 +104,7 @@ ruby-flashcards-1-single-deck-challenge
 ruby-racer-1-outrageous-fortune-challenge
 ruby-todos-1-0-core-features-challenge
 ruby-todos-2-0-additional-features-challenge
+ruby-word-search-challenge
 scraping-hn-1-building-objects-challenge
 scraping-hn-2-saving-to-csv-challenge
 simple-benchmarking-with-blocks-challenge
