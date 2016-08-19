@@ -29,10 +29,11 @@ Pair programming is an agile software development technique in which two program
 #### During Pairing
 
 1.  Close email, chats and turn off notifications.
-2.  Use your whiteboards to take notes so you don't have to interrupt your pair when you notice something you need to do later.
+2.  Using a journal or whiteboard to jot down notes can be a great tool. It allows you to continue pairing while keeping a log of questions you may want to ask an instructor later.
 3.  Make sure you are bouncing back and forth between driver-navigator roles and practising the Pomodoro technique.
-4.  Avoid non-essential conversation with others while your pair is working. A good pattern to follow is you and your pair go check in with other groups together to share knowledge and discuss strategies.
-5.  Timebox challenges and check in at regular intervals throughout the day to make sure above agreements are holding
+4.  Avoid non-essential conversation with others while you and your pair are working. However, you and your pair may want to check in with other groups to share knowledge and discuss strategies.
+6.  Check in at regular intervals throughout the day to make sure above agreements are holding.
+7.  Consider whether or not you want to timebox each challenge before diving in.
 
 
 Pairing is a huge part of your DBC experience, and it's important to think of pairing as a learnable skill, just like any technical proficiency you're working on. It can be very hard to become a good pair and ask others to do the same, so it's best to start practicing these habits early, and stick with them each day.
@@ -47,5 +48,5 @@ If you are finding that a specific pair dynamic is so difficult that it is activ
 
 1. Give Feedback  
   - Make it actionable, specific and kind.
-  - Remember to distinguish between impact and intention.  (Don't assume your pairs intention when describing the       impact it had on you).
+  - Remember to distinguish between impact and intention.  (Don't assume your pair's intention when describing the       impact it had on you).
   - Be authentic and be specific about positive feedback. 
