@@ -8,8 +8,7 @@
       "design-drill-code-style-challenge",
       "design-drill-method-chaining-challenge",
       "99-bottles-challenge",
-      "battleship-challenge",
-      "combating-smells-extract-method-challenge"
+      "battleship-challenge"
     ],
     "tuesday": [
       "pig-latin-challenge",
@@ -20,7 +19,8 @@
       "implement-enumerable-challenge",
       "ruby-drill-destructive-methods-challenge",
       "algorithm-drill-shuffle-challenge",
-      "words-in-a-file-challenge"
+      "words-in-a-file-challenge",
+      "combating-smells-extract-method-challenge"
     ],
     "wednesday": [
       "algorithm-drill-factorial-challenge",
