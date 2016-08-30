@@ -16,7 +16,7 @@
 
 **Prep for Tomorrow**
 
-- [How to read a Stack Trace](https://github.com/Devbootcamp/debugging-drill-read-the-error-challenge) (re-read, no need to re-do the challenge itself)
+- [How to read a Stack Trace](../../../../debugging-drill-read-the-error-challenge) (re-read, no need to re-do the challenge itself)
 - [Debugging](../readings/debugging/README.md)
 
 ### Stretch
