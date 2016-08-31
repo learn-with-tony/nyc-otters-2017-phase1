@@ -12,7 +12,7 @@ These resources are also linked from individual challenges.  If you find a resou
 ###Data
 
 - [Primitive Data Types](http://en.wikipedia.org/wiki/Primitive_data_type)
-- [Variable scoping](./resources/variable_scoping.md)
+- [Variable scoping](variable_scoping.md)
 
 ### Regular Expressions
 
