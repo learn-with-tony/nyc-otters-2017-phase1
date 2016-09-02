@@ -33,8 +33,7 @@ Pair programming is an agile software development technique in which two program
 3.  Make sure you are bouncing back and forth between driver-navigator roles and practising the Pomodoro technique.
 4.  Avoid non-essential conversation with others while you and your pair are working. However, you and your pair may want to check in with other groups to share knowledge and discuss strategies.
 6.  Check in at regular intervals throughout the day to make sure above agreements are holding.
-7.  Consider whether or not you want to timebox each challenge before diving in.
-
+7.  If you find yourself getting stuck or spending a long time on a challenge, check-in with an instructor and determine if you should move on.
 
 Pairing is a huge part of your DBC experience, and it's important to think of pairing as a learnable skill, just like any technical proficiency you're working on. It can be very hard to become a good pair and ask others to do the same, so it's best to start practicing these habits early, and stick with them each day.
 
