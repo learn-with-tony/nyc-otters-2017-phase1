@@ -4,7 +4,9 @@ These are suggested notification settings... uncheck 'automatically watch' and l
 
 ![image-1](./img/git-noise-1.png)
 
-Now... follow that link to 'the repositories you're watching'.  Unwatch everything and add back only the specific repos you want to watch using the 'unwatch all' repos button.  (If you want to keep watching everything, just uncheck the watching email / web checkboxes in the above screenshot to reduce that noice)  You can keep a shorter list of repos you watch as a 'white list'.  Likely you will want to watch your p3 final project or something you contribute you to maybe after graduation.  At this point, it's probably unnecessary.
+Now follow that link to 'the repositories you're watching'. Unwatch everything and add back only the specific repos you want to watch. If there are specific repos you want to watch in the future (like group projects) you can come back and specifically watch them here.
+
+Note: If you want to keep watching everything, just uncheck the watching email / web checkboxes in the above screenshot to reduce that noise.
 
 ![image-2](./img/git-noise-2.png)
 
