@@ -3,7 +3,7 @@ Written by [Torey Hickman](https://github.com/toreyhickman).
 
 ## Introduction
 
-While writing writing classes and defining methods we have to decide how we intend for our class to interact with other objects?  What is the public interface of our class?  This might seem like an abstract concept at Dev Bootcamp where you and maybe three or four others are probably the only ones relying on your code.  But, what about for gems like [Nokogiri](http://rubygems.org/gems/nokogiri) with millions of users?  
+While writing classes and defining methods we have to decide how we intend for our class to interact with other objects?  What is the public interface of our class?  This might seem like an abstract concept at Dev Bootcamp where you and maybe three or four others are probably the only ones relying on your code.  But, what about for gems like [Nokogiri](http://rubygems.org/gems/nokogiri) with millions of users?  
 
 The Nokogiri gem has been downloaded over 26 million times.  It has tens of millions of users that rely on it.  Changes to it's public interface—either the messages to which it responds (i.e., methods) or the values that they return—could cause problems for a lot of users.  
 
