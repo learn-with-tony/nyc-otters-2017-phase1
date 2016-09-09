@@ -13,8 +13,8 @@
 
 **Prep for Tomorrow**
 
-- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4) with Torey Hickman
-- [Active Record Associations](https://talks.devbootcamp.com/active-record-associations-3) with Mike Busch
+- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4) with Torey Hickman (Talk is close-captioned!)
+- [Active Record Associations](https://talks.devbootcamp.com/active-record-associations-3) with Mike Busch (Talk is close-captioned!)
 
 ### Stretch
 
