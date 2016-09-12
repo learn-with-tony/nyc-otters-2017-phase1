@@ -11,6 +11,7 @@
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 **Prep for Tomorrow**
+- Watch [Refactoring with Modules & Inheritance](https://talks.devbootcamp.com/refactoring-with-modules-and-inheritance)
 - [Reading Open Source Software: Nokogiri](../readings/reading-oss/README.md)
 
 ### Stretch

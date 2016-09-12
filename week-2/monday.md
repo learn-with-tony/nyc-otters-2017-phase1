@@ -15,8 +15,7 @@
 - [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 
 **Prep for Tomorrow**
-
-- Watch [Refactoring with Modules & Inheritance](https://talks.devbootcamp.com/refactoring-with-modules-and-inheritance)
+- Watch [Inheritance & Mixins](https://talks.devbootcamp.com/inheritance-and-mixins)
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
 
 ### Stretch
