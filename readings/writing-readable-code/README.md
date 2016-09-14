@@ -41,7 +41,7 @@ def p_factors(x)
 end
 
 def p_factor(x)
-  pos_factors(x).find { |p| p.prime? && number % p == 0 }
+  pos_factors(x).find { |p| p.prime? && x % p == 0 }
 end
 
 def pos_factors(x)
@@ -63,7 +63,7 @@ end
 
 def find_prime_factor_of(number)
   possible_factors_of(number).find do |possibility|
-    possibility.prime? && possibility % x == 0
+    possibility.prime? && number % possibility == 0
   end
 end
 
