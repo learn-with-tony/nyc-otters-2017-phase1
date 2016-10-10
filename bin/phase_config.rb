@@ -20,15 +20,14 @@ module PhaseConfig
 
   def challenges_as_list(path)
     list = find_challenges(path).map{|challenge| challenge[2]}.flatten
-    list << "student-handbook" #temporary
-    list << "ar-skeleton" #temporary
+    list.concat find_resources(path)
     list.sort
   end
 
   def find_challenges(path)
     repo = File.expand_path(path)
     config_dir = "#{repo}/config"
-    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend}.md"
+    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend,pre-work}.md"
     challenge_pattern = /([^\/]*-challenge)\)/
     challenges = []
     challenge_set = Set.new
@@ -41,10 +40,16 @@ module PhaseConfig
         .open {|f| f.read.scan(challenge_pattern).flatten }
         .reject{|match| challenge_set.include?(match) }
 
-      challenges << [week, day, matches]
+      challenges << [week.to_s, day.to_s, matches]
       challenge_set.merge(matches)
     end
 
     challenges
+  end
+
+  def find_resources(path)
+    repo = File.expand_path(path)
+    file = File.read("#{repo}/config/resources.json")
+    JSON.parse(file)
   end
 end
