@@ -10,7 +10,7 @@
 
 **Challenges**
 
-- [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
+- [Web Scraping Challenge](../../../../web-scraping-challenge)
 
 **Prep for Tomorrow**
 
