@@ -11,8 +11,8 @@ Object and References
 
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
-- [Word Search](../../../../ruby-word-search-challenge)
 - [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
+- [Word Search](../../../../ruby-word-search-challenge)
 
 **Prep for Tomorrow**
 
