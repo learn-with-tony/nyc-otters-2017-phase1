@@ -10,7 +10,7 @@
 
 **Challenges**
 
-- [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
+- [Web Scraping Challenge](../../../../web-scraping-challenge)
 
 **Prep for Tomorrow**
 
@@ -19,7 +19,7 @@ No prep for tomorrow.
 ### Stretch
 
 **Challenges**
-
+- [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
 - [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge)
 - [The Rational Numbers](../../../../the-rational-numbers-challenge)
 
