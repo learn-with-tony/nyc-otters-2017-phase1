@@ -1,4 +1,6 @@
 99-bottles-challenge
+active-record-associations-drill-at-the-races-challenge
+active-record-associations-drill-hotels-challenge
 active-record-drill-model-a-student-challenge
 active-record-intro-belongs-to-association-challenge
 active-record-intro-code-base-challenge
@@ -9,15 +11,9 @@ active-record-intro-inserting-records-challenge
 active-record-intro-objects-challenge
 active-record-intro-retrieving-records-challenge
 active-record-intro-validations-challenge
-active-record-legislator-tweets-challenge
 active-record-legislators-challenge
 active-record-todos-challenge
-activerecord-design-your-own-challenge
 activerecord-jr-1-a-basic-orm-challenge
-activerecord-jr-2-sql-be-gone-challenge
-activerecord-jr-3-pragmatism-challenge
-activerecord-jr-4-metaprogramming-challenge
-activerecord-todos-part-2-challenge
 address-book-db-from-schema-challenge
 algorithm-drill-binary-search-challenge
 algorithm-drill-factorial-challenge
@@ -37,8 +33,6 @@ cheering-mascot-challenge
 combating-smells-extract-method-challenge
 congress-database-1-from-csv-to-sqlite-with-ruby-challenge
 congress-database-2-scrub-and-analyze-with-ruby-challenge
-congress-database-3-refactoring-congresspeople-refining-object-orientation-challenge
-congress-database-4-deeper-analysis-with-ruby-challenge
 cookies-and-ovens-challenge
 data-drill-linked-list-challenge
 data-drill-nested-arrays-challenge
@@ -81,7 +75,6 @@ parsing-data-1-csv-in-csv-out-challenge
 parsing-data-2-csv-in-anything-out-challenge
 pig-latin-challenge
 poll-database-design-challenge
-prepared-statements-challenge
 prime-factors-sieve-of-eratosthenes-challenge
 quad-ruby-meets-samuel-beckett-challenge
 recursion-vs-iteration-benchmarking-it-challenge
