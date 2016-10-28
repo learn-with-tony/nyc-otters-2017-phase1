@@ -120,7 +120,6 @@
     ],
     "tuesday": [
       "student-roster-db-from-schema-challenge",
-      "prepared-statements-challenge",
       "address-book-db-from-schema-challenge",
       "activerecord-jr-1-a-basic-orm-challenge",
       "many-to-many-schema-to-database-challenge",
@@ -141,21 +140,15 @@
     "thursday": [
       "active-record-intro-validations-challenge",
       "active-record-drill-model-a-student-challenge",
+      "active-record-associations-drill-at-the-races-challenge",
+      "active-record-associations-drill-hotels-challenge",
       "active-record-legislators-challenge",
-      "active-record-legislator-tweets-challenge",
-      "activerecord-design-your-own-challenge",
-      "activerecord-jr-2-sql-be-gone-challenge",
-      "activerecord-jr-3-pragmatism-challenge",
-      "activerecord-jr-4-metaprogramming-challenge",
-      "congress-database-3-refactoring-congresspeople-refining-object-orientation-challenge",
-      "congress-database-4-deeper-analysis-with-ruby-challenge",
       "database-drill-activerecord-associations-challenge",
       "db-drill-ar-symmetric-migrations-challenge",
       "database-drill-advanced-activerecord-migrations-challenge"
     ],
     "friday": [
-      "active-record-todos-challenge",
-      "activerecord-todos-part-2-challenge"
+      "active-record-todos-challenge"
     ],
     "weekend": [
 
