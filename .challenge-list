@@ -28,8 +28,6 @@ ar-skeleton
 battleship-challenge
 binary-vs-linear-searching-challenge
 boggle-1-basic-board-generation-challenge
-boggle-1-basic-board-generation-challenge
-boggle-2-word-checker-challenge
 boggle-2-word-checker-challenge
 cheering-mascot-challenge
 combating-smells-extract-method-challenge
@@ -42,7 +40,6 @@ data-drill-stack-and-queue-challenge
 database-drill-activerecord-associations-challenge
 database-drill-advanced-activerecord-migrations-challenge
 database-drill-intro-to-sqlite-challenge
-database-drill-intro-to-sqlite-challenge
 database-drill-many-to-many-schema-challenge
 database-drill-one-to-many-schema-challenge
 database-drill-one-to-one-schema-challenge
@@ -51,7 +48,6 @@ database-drill-sqlite-shell-part-2-challenge
 database-drill-student-roster-challenge
 db-drill-address-book-schema-challenge
 db-drill-ar-symmetric-migrations-challenge
-debugging-drill-read-the-error-challenge
 debugging-drill-read-the-error-challenge
 debugging-drill-use-a-repl-challenge
 design-drill-argument-order-dependency-challenge
@@ -84,8 +80,6 @@ quad-ruby-meets-samuel-beckett-challenge
 recursion-vs-iteration-benchmarking-it-challenge
 reddit-jr-database-design-challenge
 review-abstract-data-structures-challenge
-review-abstract-data-structures-challenge
-review-calculating-subsets-with-recursion-challenge
 review-calculating-subsets-with-recursion-challenge
 review-reflect-and-iterate-challenge
 review-reflect-on-learning-challenge
@@ -100,7 +94,6 @@ ruby-drill-exploring-scope-challenge
 ruby-drill-regular-expressions-challenge
 ruby-drill-the-self-keyword-challenge
 ruby-flashcards-1-single-deck-challenge
-ruby-racer-1-outrageous-fortune-challenge
 ruby-racer-1-outrageous-fortune-challenge
 ruby-todos-1-0-core-features-challenge
 ruby-todos-2-0-additional-features-challenge
