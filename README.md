@@ -58,6 +58,7 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Daily Cadence
 
+
 <- FILL IN DETAILS HERE ->
 
 Time    | Activity
