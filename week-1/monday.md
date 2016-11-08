@@ -18,7 +18,7 @@
 
 **Prep for Tomorrow**
 
-- [Sam Blackman's Intro to RSpec](https://talks.devbootcamp.com/intro-to-rspec)
+- [Sam Blackman's Intro to RSpec](https://talks.devbootcamp.com/intro-to-rspec) (closed-captioned)
 - [RSpec Basics](../readings/rspec/README.md)
 - [Regular Expressions](../readings/regular-expressions/README.md)
 

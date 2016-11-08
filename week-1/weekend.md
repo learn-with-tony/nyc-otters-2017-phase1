@@ -17,7 +17,7 @@ Either with a pair or on your own, complete the following challenges.
 
 **Prep for Monday**
 
-- Watch [Inheritance & Mixins](https://talks.devbootcamp.com/inheritance-and-mixins) to learn how inheritance and modules work in Ruby.
+- Watch [Inheritance & Mixins](https://talks.devbootcamp.com/inheritance-and-mixins) (closed-captioned) to learn how inheritance and modules work in Ruby.
 - Read Chapters 2 and 3 of [Practical Object Oriented Programming in Ruby](http://amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C/).  There are hardcopies available on the DBC bookshelf.  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.  You should finish reading the book throughout Week 2.
 - Read the Apprenticeship Pattern on [exposing your ignorance](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#expose_your_ignorance).  It's really hard for smart, hard-working, passionate people to admit when they don't get something. Our natural tendency is to guard our ignorance so that everyone thinks we're competent.  Effective developers expose their ignorance. Period.
 - [Ruby Scope](../readings/ruby-scope/README.md)

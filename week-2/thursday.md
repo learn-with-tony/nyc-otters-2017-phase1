@@ -11,7 +11,7 @@
 **Prep for Tomorrow**
 
 - [Model View Controller](../readings/model-view-controller/README.md)
-- Watch [Model View Controller refactoring of Bernie's Bistro](https://talks.devbootcamp.com/mvc-refactoring-bernies-code)
+- Watch [Model View Controller refactoring of Bernie's Bistro](https://talks.devbootcamp.com/mvc-refactoring-bernies-code) (closed-captioned)
 
 
 ### Stretch
