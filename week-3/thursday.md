@@ -12,7 +12,7 @@
 
 **Prep for Tomorrow**
 
-- [Active Record Associations](https://talks.devbootcamp.com/active-record-associations-3) with Mike Busch (closed-captioned)
+- [Active Record Associations](https://talks.devbootcamp.com/active-record-associations-3) with Mike Busch (closed captioning available)
 
 ### Stretch
 

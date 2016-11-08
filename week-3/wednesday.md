@@ -16,8 +16,8 @@
 
 **Prep for Tomorrow**
 
-- [Introduction to Active Record](https://talks.devbootcamp.com/active-record-introduction) with Torey Hickman (closed-captioned)
-- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4) with Torey Hickman (closed-captioned)
+- [Introduction to Active Record](https://talks.devbootcamp.com/active-record-introduction) with Torey Hickman (closed captioning available)
+- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4) with Torey Hickman (closed captioning available)
 
 ### Additional Resources
 
