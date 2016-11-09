@@ -13,7 +13,7 @@ Model-View-Controller is a [design pattern](http://en.wikipedia.org/wiki/Softwar
   
 In applying object-oriented principles, you've begun to write methods that are responsible for doing a single thing and to write classes and modules that have a single purpose.  Within the Model-View-Controller pattern, your program's responsibilities will be divided between (1) the data and business logic, (2) the user interface, and (3) coordinating between the two.  Figure 1 breaks down the responsibilities of each part of your application.  
 
-![M-V-C Overview](mvc-overview.jpg)
+![M-V-C Overview](mvc-overview.png)
 
 *Figure 1.* Model-View-Controller Overview
 
