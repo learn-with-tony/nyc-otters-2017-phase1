@@ -204,7 +204,7 @@ There are 1 people.
 
 irb> Person.new("Jill")
 irb> Person.new("Meghan")
-irb> puts Person.stats
+irb> puts Person.count
 There are 3 people.
 ```
 
