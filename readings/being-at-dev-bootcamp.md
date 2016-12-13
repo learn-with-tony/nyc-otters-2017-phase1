@@ -30,7 +30,7 @@ If you're having a hard day or a hard week, don't despair. Keep going and do the
 
 Remember that your goal is to learn a professional craft in a very short amount of time. Comparing yourself to others will not help you learn; in fact, with as little time as you have here, you cannot afford to expend your energy this way.
 
-If you're having an easy week, do not feel confident and do not feel comfortable. Feel _uncomfortable_ that you could be learning more but you are not.
+If you're having an easy week, do not feel confident and do not feel comfortable. Feel _uncomfortable_ that you could be learning or growing more but you are not.
 
 Make no mistake, finishing cores will not get you a job. Finishing them quickly will not get you a job. Passing the assessment will not get you a job. Employers do not care about the work you do here, they care about the person you are when you exit. You are attempting to learn a body of material that takes most people years. You are attempting to be competitive in a market made up of experienced programmers, juniors from other bootcamps, and CS grads. 
 
@@ -42,7 +42,9 @@ All we can offer is this. Every night, before you go to sleep, pause and reflect
 
 > "Did I work as hard I possibly could have while maintaining my mental and physical health today?"
 
-Remember that hard work here is not measured in hours spent coding. Did you try something new? Did you grow as a person? Did you give someone feedback that scared you? Did you make better use of your time than you did yesterday? If the answer is "no, I could have worked harder", ask yourself _why_ that is, and then ask yourself _how_ you can push harder. If the answer is, "no, I sacrified my well-being today", ask yourself what you need to change going forward.
+Remember that hard work here is not only measured in hours spent coding. Did you try something new? Did you grow as a person? Did you have a feedback conversation that challenged you? Did you make better use of your time than you did yesterday? If the answer is "no, I could have worked harder", ask yourself _why_ that is, and then ask yourself _how_ you can push harder. Remember that DBC is probably one of the most supportive environments you will ever have to take these personal and technical risks.
+
+On the other hand, if the answer is, "no, I sacrified my well-being today", ask yourself what you need to adjust going forward to make this work sustainable for you.
 
 With this in mind, let's revisit those questions we started with:
 
@@ -52,7 +54,7 @@ If you're working as hard as you can, you will get as many cores done as you pos
 
 > "Should I favor completion or understanding?"
 
-You should favor both. This is what you're here to do.
+You should favor both. The program is designed for both. This is what you're here to do.
 
 > "How many hours should I work?"
 
