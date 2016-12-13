@@ -72,4 +72,4 @@ At all times, be honest with yourself and with others.
 
 At all times, be kind to yourself and others.
 
-At all times, bring your whole self to bear on the problems in front of you. There is a piece of each of you that knows what it means to work tirelessly and relentlessly. Find it and embrace it. We have created a space and community designed to support individuals who embark on a journey of extraordinary effort, and we're here to help guide you on that journey. The rest is up to you.
+At all times, bring your whole self to bear on the problems in front of you. There is a piece of each of you that knows what it means to work tirelessly and relentlessly. Find it and embrace it. We have created a space and community designed to support individuals who embark on a journey of extraordinary effort, and we're here to help guide and support you on that journey. The rest is up to you.
