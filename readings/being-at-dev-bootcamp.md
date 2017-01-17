@@ -20,7 +20,7 @@ Questions about "how much work should I do?" are difficult to answer for two rea
 
 First, every student's situation is different, so we cannot give a metric of "doneness" that is appropriate for everyone. Each student has different experiences, strengths, and goals to bring to their work. Some students have family/personal responsibilities, learning differences, disabilities, mental or physical health situations, experiences of systemic and interpersonal oppression, or other considerations that may affect their energy, health, schedule, and work.
 
-Second, there is no metric for "done" at Dev Bootcamp because your learning is never done. Finishing your cores doesn't mean you're "done" because there are stretch challenges. Finishing stretch challenges doesn't mean you're "done" because you can start a side-project. Finishing a side-project doesn't mean you're "done" because our code is never done — with guidance, it can always be improved.
+Second, there is no metric for "done" at Dev Bootcamp because your learning is never done. Finishing your cores doesn't mean you're "done" because there are stretch challenges. Finishing stretch challenges doesn't mean you're "done" because you can start a side-project. Finishing a side-project doesn't mean you're "done" because our code is never done — with guidance, it can always be improved.  Even perfecting your own code doesn't mean you're "done", because you can always deepen your own understanding and communication skills by mentoring a fellow student.
 
 Passing an assessment doesn't mean you're done either. There is more material ahead of you, and more material behind you that could benefit from reflection, refactoring, and further comprehension.
 
@@ -30,11 +30,11 @@ If you're having a hard day or a hard week, don't despair. Keep going and do the
 
 Remember that your goal is to learn a professional craft in a very short amount of time. Comparing yourself to others will not help you learn; in fact, with as little time as you have here, you cannot afford to expend your energy this way.
 
-If you're having an easy week, do not feel confident and do not feel comfortable. Feel _uncomfortable_ that you could be learning or growing more but you are not.
+If you're having an easy week, do not feel complacent or comfortable. Feel _uncomfortable_ that you could be learning or growing more but you are not. 
 
 Make no mistake, finishing cores will not get you a job, finishing them quickly will not get you a job, and passing the assessment will not get you a job. What matters to employers is _who you are when when you exit_. You are attempting to learn a body of material that takes most people years. You are attempting to be competitive in a market made up of experienced programmers, juniors from other bootcamps, and CS grads. You can do it, but it's going to take a lot of work, and probably more than you were anticipating.
 
-We talk about the optimal learning zone being a mix of safety and discomfort. As you progress here, do not allow yourself to slip into the comfort zone, because you cannot afford to. You are here to learn as much as you possibly can before you exit to increase your odds of getting hired as a junior dev. Many of our grads find employment, but some do not. We are here to support you in your learning and in your job search, but ultimately this is up to _you_.
+We talk about the optimal learning zone being a mix of safety and discomfort. As you progress here, do not allow yourself to slip into the comfort zone, because you cannot afford to. Many of our grads find employment, but some do not. You are here to learn as much as you possibly can before you exit to increase your odds of getting hired as a junior dev. We are here to support you in your learning and in your job search, but ultimately this is up to _you_.
 
 So what guideline can we provide? If it's not the assessment, or the number of cores you finish, or the number of technologies you become comfortable with, then how can you judge if you're "doing things right?"
 
