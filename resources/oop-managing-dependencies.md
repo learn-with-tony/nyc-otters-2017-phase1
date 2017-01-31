@@ -94,6 +94,16 @@ end
 ```
 
 ### Dependency Inversion
-Be conscious about the direction of your dependencies -- build classes that depend on things that change less often than they do.
 
-The Dependency Inversion Principle is primarily about reversing the conventional direction of dependencies from "higher level" components to "lower level" components such that "lower level" components are dependent upon the interfaces owned by the "higher level" components. (Note: "higher level" component here refers to the component requiring external dependencies/services, not necessarily its conceptual position within a layered architecture.) In doing so, coupling isn't reduced so much as it is shifted from components that are theoretically less valuable for reuse to components which are theoretically more valuable for reuse.
+Be conscious about the direction of your dependencies -- build classes that
+depend on things that change less often than they do.
+
+The Dependency Inversion Principle is primarily about reversing the
+conventional direction of dependencies from "higher level" components to "lower
+level" components such that "lower level" components are dependent upon the
+interfaces owned by the "higher level" components. (Note: "higher level"
+component here refers to the component requiring external
+dependencies/services, not necessarily its conceptual position within a layered
+architecture.) In doing so, coupling isn't reduced so much as it is shifted
+from components that are theoretically less valuable for reuse to components
+which are theoretically more valuable for reuse.
