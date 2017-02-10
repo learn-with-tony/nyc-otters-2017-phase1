@@ -116,3 +116,8 @@ Try these things:
   ![No Changes](img/pr8.png)
   - Make sure the name of your corhort and 'master' are selected in the base fork drop downs, and the name of your cohort and 'your branch' are selected in the head fork.
   ![Compare Across Forks](img/pr9.png)
+
+
+### Viewing past work
+
+If you want to look back at the challenges you've worked on, you can see a list of your pull requests [https://github.com/pulls](on GitHub).
