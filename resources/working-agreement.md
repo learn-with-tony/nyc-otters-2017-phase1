@@ -1,6 +1,6 @@
 # Working Agreement
 
-See [DBC Policies](../../../../student-handbook/rules-and-policies.md) for the complete set of DBC policies.
+See [DBC Policies](../../../../student-handbook/blob/master/rules-and-policies.md) for the complete set of DBC policies.
 
 ### Core Hours Overview
 - You will meet with your accountability buddies 15 minutes before the start of core hours every week day; text or call your buddies if they are not present or if you are running late.
