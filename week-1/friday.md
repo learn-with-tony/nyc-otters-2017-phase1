@@ -7,6 +7,7 @@
 **Challenges**
 
 - [Sudoku](../../../../sudoku-challenge)
+- _Midafternoon_: EE Break: Introvert / Extravert
 
 ### Additional Resources
 
