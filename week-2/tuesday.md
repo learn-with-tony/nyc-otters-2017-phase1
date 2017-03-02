@@ -1,8 +1,9 @@
 ## Tuesday
 ### Object Oriented Design with Inheritance and Composition
 
-
 ### Core
+
+EE: 90 minutes before EOD: "Inner Critic &amp; Resiliency"
 
 **Challenges**
 
