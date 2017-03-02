@@ -11,7 +11,6 @@ Object and References
 
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
-- _90 minutes before lunch break_: EE: "Feedback and Pairing"
 - [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
 - [Word Search](../../../../ruby-word-search-challenge)
 
