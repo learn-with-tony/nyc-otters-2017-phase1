@@ -31,4 +31,4 @@
 
 - [Talk on schema design](http://shereef.wistia.com/medias/fd684c61cb)
 - [Basic SQLite commands](http://zetcode.com/db/sqlite/tool/)
-- [Visualization of SQL joins](http://www.codinghorror.com/blog/2007/10/a-visual-explanation-of-sql-joins.html)
+- [Visualization of SQL joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
