@@ -7,7 +7,6 @@
 
 - [For First Time Students](../../../../algorithms-and-oo-checkpoint-challenge)
 - [For Students Repeating Phase 1](../../../../alt-algorithms-and-oo-checkpoint-challenge)
-- _After Challenge_: EE: "Inner Critic"
 
 **Challenges**
 
