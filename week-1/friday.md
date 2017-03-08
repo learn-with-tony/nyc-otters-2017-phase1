@@ -4,9 +4,10 @@
 
 ### Core
 
+- _Morning_: EE: "Introvert / Extrovert"
+
 **Challenges**
 
-- _Morning_: EE Break: Introvert / Extrovert
 - [Sudoku](../../../../sudoku-challenge)
 
 ### Additional Resources

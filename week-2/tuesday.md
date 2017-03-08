@@ -3,7 +3,7 @@
 
 ### Core
 
-EE: 90 minutes before EOD: "Inner Critic &amp; Resiliency"
+- _90 minutes before EOD_: EE: "Inner Critic &amp; Resiliency"
 
 **Challenges**
 

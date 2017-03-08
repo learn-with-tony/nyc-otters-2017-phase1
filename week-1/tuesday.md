@@ -3,8 +3,9 @@
 
 ### Core
 
-**NOTE**: Your first EE is today. 90 minutes before end of day we will cover:
-"Feedback and Pairing."
+**NOTE**: Your first EE is today!
+
+- _90 minutes before end of day_: EE: "Feedback and Pairing."
 
 **Challenges**
 
