@@ -12,7 +12,9 @@ Either with a pair or on your own, complete the following challenges.
 - [Review: Revisit Roman Numerals](../../../../review-revisit-roman-numeral-challenge)
 
 **Review**
+
 - [Top Challenges](../resources/key-challenges-p1w1.md) - This is list of the key challenges from week 1. We strongly suggest that you solo on any of these challenges on which you struggled.
+- The [Sudoku Challenge](../../../../sudoku-challenge) is **extremely representative** of the type of work you will be asked to do in interviews during "whiteboarding challenges." Sudoku has some of the great hallmarks that stimulate great conversations between applicants and employers: recursion versus iteration, complexity of algorithm, sophistication of algorithm, time to produce a working bit of code, etc. Therefore we recommend that you take Sudoku as far as you can! Complete the other prep work and give continued progress on this challenge the remainder of time available.
 
 
 **Prep for Monday**
