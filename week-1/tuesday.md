@@ -5,7 +5,7 @@
 
 **NOTE**: Your first EE is today!
 
-- _90 minutes before end of day_: EE: "Feedback and Pairing."
+- _Morning_: EE: "Feedback and Pairing."
 
 **Challenges**
 

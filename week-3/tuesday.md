@@ -3,7 +3,7 @@
 
 ### Core
 
-- _90 minutes before EOD_: EE: "The Empathic Team"
+- _Morning_: EE: "The Empathic Team"
 
 **Challenges**
 

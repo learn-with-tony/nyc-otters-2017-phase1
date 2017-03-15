@@ -1,4 +1,3 @@
-
 ## Friday
 ### Sudoku
 
