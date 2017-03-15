@@ -3,7 +3,7 @@
 
 ### Core
 
-- _Morning_: EE: "The Empathic Team"
+- _90 minutes before lunch_: EE: "The Empathic Team"
 
 **Challenges**
 

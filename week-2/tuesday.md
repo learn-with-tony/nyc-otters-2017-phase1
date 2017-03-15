@@ -3,7 +3,7 @@
 
 ### Core
 
-- _Morning_: EE: "Inner Critic &amp; Resiliency"
+- _90 minutes before lunch_: EE: "Inner Critic &amp; Resiliency"
 
 **Challenges**
 
