@@ -10,7 +10,7 @@
 
 **Note**
 
-The [Sudoku Challenge](../../../../sudoku-challenge) is **extremely representative**
+The Sudoku Challenge is **extremely representative**
 of the type of work you will be asked to do in interviews during "whiteboarding
 challenges."
 
@@ -37,3 +37,4 @@ team workflow!
 - [Pseudocode example](../resources/translate_to_pseudocode.rb)
 
 [lee]: https://arstechnica.com/information-technology/2015/05/prime-minister-of-singapore-shares-his-c-code-for-sudoku-solver/
+
