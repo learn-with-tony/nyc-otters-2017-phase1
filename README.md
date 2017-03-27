@@ -41,37 +41,44 @@
 
 ## Weekly Groups
 
-Find your weekly groups [here](./resources/groups.md).
+Find your weekly groups [here](../../wiki/Groups).
 
 ## Weekly Cadence
 
 - Engineering Empathy (EE):
-  - <- FILL IN DETAILS HERE ->
+  - Week 1 Tuesday: Feedback & Teamwork (11:30am-1:00pm)
+  - Week 2 Thursday: Resilience & the Inner Critic (11:30am-1:00pm)
 - Careers:
-  - <- FILL IN DETAILS HERE ->
+  - Week 2, Monday: Intro to LinkedIn with Careers Team
+  - Week 3, Thursday: LinkedIn and Tech Resume Workshop with Careers Team
 - Cohort Fun Activities:
-  - <- FILL IN DETAILS HERE ->
+  - Improv Experience: Week 2, Friday (2:10pm-3:40pm)
 - Assessment:
-  - <- FILL IN DETAILS HERE ->
+  - Week 3, Wednesday
+  - The Challenge - 9:00am - 12:30pm
+  - Code Reviews start in the afternoon
 
 ## Daily Cadence
 
-<- FILL IN DETAILS HERE ->
-
 Time    | Activity
 ---     | ---
-        |
+8:45am  | Check in with accountability buddies
+9:00am  | Daily Progress Checkin
+9:15am  | Challenges/Breakouts
+12:30pm | Lunch
+2:00pm  | Afternoon Announcements
+2:05pm  | Challenges/Breakouts
+6:00pm  | End of core hours
+6:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Managing Github Notification Settings](resources/github-notification-settings.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
-- [Counseling Session Signup](<- FILL IN DETAILS HERE ->)
+- [Counseling Session Signup](https://www.google.com/calendar/selfsched?sstoken=UU1IajlIME1VSmxWfGRlZmF1bHR8MjFkZGFmMWYyMGJiZWMzOTZjY2FmZjMyNWExNjllNjQ)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Learning Competencies](resources/competencies.md)
 - [External Resources](resources/resources.md)
 - [Phase Topic Schedule](resources/schedule.md)
 - [Working Agreement](resources/working-agreement.md)
-
-
