@@ -5,17 +5,14 @@
 
 **Challenges**
 
-- [Pig Latin](../../../../pig-latin-challenge)
-- [Ruby Drill: Regular Expressions](../../../../ruby-drill-regular-expressions-challenge)
-- [Design Drill: Translate to Pseudocode](../../../../design-drill-translate-to-pseudocode-challenge)
-- [Benchmarking with Blocks](../../../../simple-benchmarking-with-blocks-challenge)
-
-*Enumerables*
-
 - [Ruby Drill: Enumerable Methods](../../../../ruby-drill-enumerable-methods-challenge)
 - [Implement Enumerable](../../../../implement-enumerable-challenge)
 - [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
+- [Pig Latin](../../../../pig-latin-challenge)
+- [Ruby Drill: Regular Expressions](../../../../ruby-drill-regular-expressions-challenge)
+- [Design Drill: Translate to Pseudocode](../../../../design-drill-translate-to-pseudocode-challenge)
+- [Benchmarking with Blocks](../../../../simple-benchmarking-with-blocks-challenge)
 
 **Prep for Tomorrow**
 
