@@ -11,14 +11,14 @@
       "battleship-challenge"
     ],
     "tuesday": [
-      "pig-latin-challenge",
-      "ruby-drill-regular-expressions-challenge",
-      "design-drill-translate-to-pseudocode-challenge",
-      "simple-benchmarking-with-blocks-challenge",
       "ruby-drill-enumerable-methods-challenge",
       "implement-enumerable-challenge",
       "ruby-drill-destructive-methods-challenge",
       "algorithm-drill-shuffle-challenge",
+      "pig-latin-challenge",
+      "ruby-drill-regular-expressions-challenge",
+      "design-drill-translate-to-pseudocode-challenge",
+      "simple-benchmarking-with-blocks-challenge",
       "words-in-a-file-challenge",
       "combating-smells-extract-method-challenge"
     ],
