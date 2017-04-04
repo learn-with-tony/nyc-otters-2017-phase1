@@ -3,6 +3,8 @@
 
 ### Core
 
+- _90 minutes before lunch_: EE: "The Empathic Team"
+
 **Challenges**
 
 - [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)

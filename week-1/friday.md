@@ -1,8 +1,9 @@
-
 ## Friday
 ### Sudoku
 
 ### Core
+
+- _Morning_: EE: "Introvert / Extrovert"
 
 **Challenges**
 

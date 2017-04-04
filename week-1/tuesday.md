@@ -3,6 +3,10 @@
 
 ### Core
 
+**NOTE**: Your first EE is today!
+
+- _90 minutes before lunch_: EE: "Feedback and Pairing."
+
 **Challenges**
 
 - [Pig Latin](../../../../pig-latin-challenge)
