@@ -1,18 +1,18 @@
-#### Problem you experiencing
+#### Problem
 
+_What problem are you experiencing?_
 
+#### Issue (optional)
 
-#### Issue reference (optional)
+_Add a reference link to the related issue if you have one._
 
+#### Experiment (optional)
 
+_Add a link to the related experiment documentation if you have one_
 
-#### Experiment reference (optional)
+#### Description
 
-
-
-#### Description of proposed changes
-
-
+_Describe the changes you are proposing in this pull request_
 
 #### Github teams you wish to weigh in on this pull request
 
