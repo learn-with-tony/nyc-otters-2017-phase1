@@ -4,4 +4,4 @@
 
 **Challenges**
 
-- [Active Record Legislators](../../../../active-record-legislators-challenge)
+- [Active Record Legislators](../../../../active-record-legislators-challenge) - Group Project
