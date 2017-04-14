@@ -1,12 +1,11 @@
 ## Monday
 
+### Introduction to OOP
+
 _Careers Preparation: This week we will begin Careers preparation workshops.
 These are brief-half hour lunch-n-learns which are desiged to help you hit your
 job-search running upon graduation. The day of delivery will be communicated by
 your faciliatators. The first topic is: **Tech Landscape**_
-
-
-### Introduction to OOP
 
 ### Core
 

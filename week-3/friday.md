@@ -1,4 +1,5 @@
 ## Friday
+### Group Project with Active Record
 
 ### Core
 
