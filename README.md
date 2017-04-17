@@ -46,15 +46,15 @@ Find your weekly groups [here](../../wiki/Groups).
 ## Weekly Cadence
 
 - Engineering Empathy (EE):
-  - Week 1 Tuesday: Feedback & Teamwork (11:30am-1:00pm)
-  - Week 2 Thursday: Resilience & the Inner Critic (11:30am-1:00pm)
+  - Week 1 Tuesday: Feedback & Teamwork (4:00pm-5:30pm)
+  - Week 2 Thursday: Resilience & the Inner Critic (4:00pm-5:30pm)
 - Careers:
-  - Week 2, Monday: Intro to LinkedIn with Careers Team
-  - Week 3, Thursday: LinkedIn and Tech Resume Workshop with Careers Team
+  - Week 2 Tuesday: Workshop on Tech Landscape (3:00pm-3:30pm)
+  - Week 3 Friday: Workshop on Tech Resumes (11:30am-12:00pm)
 - Cohort Fun Activities:
   - Improv Experience: Week 2, Friday (2:10pm-3:40pm)
 - Assessment:
-  - Week 3, Wednesday
+  - Week 3 Wednesday
   - The Challenge - 9:00am - 12:30pm
   - Code Reviews start in the afternoon
 
@@ -76,7 +76,6 @@ Time    | Activity
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Managing Github Notification Settings](resources/github-notification-settings.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
-- [Counseling Session Signup](https://www.google.com/calendar/selfsched?sstoken=UU1IajlIME1VSmxWfGRlZmF1bHR8MjFkZGFmMWYyMGJiZWMzOTZjY2FmZjMyNWExNjllNjQ)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Learning Competencies](resources/competencies.md)
 - [External Resources](resources/resources.md)
