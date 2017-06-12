@@ -1,12 +1,13 @@
 {
   "week-1": {
     "monday": [
+      "warmup-challenge",
       "cheering-mascot-challenge",
       "roman-numerals-challenge",
       "debugging-drill-use-a-repl-challenge",
       "debugging-drill-read-the-error-challenge",
-      "design-drill-code-style-challenge",
       "design-drill-method-chaining-challenge",
+      "design-drill-code-style-challenge",
       "99-bottles-challenge",
       "battleship-challenge"
     ],

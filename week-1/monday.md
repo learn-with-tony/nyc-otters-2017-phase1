@@ -3,17 +3,22 @@
 
 ### Core
 
+#### Warm Up
+
+Clone this repo on either your personal laptop or a DBC workstation.  Create a branch and work in that branch to complete this challenge.  Push the branch when your work is complete.
+
+- [Solo Warmup Challenge](../../../../warmup-challenge) Work on this challenge Solo!
+
+### Challenges
+
 **Read This First**
 
 [Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
-
-**Challenges**
 
 - [Cheering Mascot](../../../../cheering-mascot-challenge)
 - [Roman Numerals](../../../../roman-numerals-challenge)
 - [Debugging Drill: Use a REPL](../../../../debugging-drill-use-a-repl-challenge)
 - [Debugging Drill: Read the Error](../../../../debugging-drill-read-the-error-challenge)
-- [Design Drill: Code Style](../../../../design-drill-code-style-challenge)
 - [Design Drill: Method Chaining](../../../../design-drill-method-chaining-challenge)
 
 **Prep for Tomorrow**
@@ -26,6 +31,7 @@
 
 **Challenges:**
 
+- [Design Drill: Code Style](../../../../design-drill-code-style-challenge)
 - [99 Bottles](../../../../99-bottles-challenge)
 - [Battleship](../../../../battleship-challenge)
 
