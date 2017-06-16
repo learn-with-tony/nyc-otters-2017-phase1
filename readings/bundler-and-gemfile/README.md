@@ -59,7 +59,7 @@ DEPENDENCIES
 
 After Bundler has installed our gems and their dependencies, it will write a file `Gemfile.lock`.  Listed in `Gemfile.lock` are all of the gem dependencies used in this application and their specific versions (see Figure 2).  It's `Gemfile.lock` that allows us to set up the exact same environment on different computers.  When we run `bundle install` if Bundler sees the `Gemfile.lock` file, it will use this file to identify the specific versions of any gems that need to be installed.
 
-The list of specific gem verstions in `Gemfile.lock` represents an environment in which our code is known to run.  Imagine if an update to a gem is released that changes the public interface.  It could potentially break our application.  However, if our application contains a `Gemfile.lock` that specifies using the older version of the gem, then we shouldn't need to worry about the change.  Anyone running our application will be able to set up the proper environment because `Gemfile.lock` specifies a version that works.
+The list of specific gem versions in `Gemfile.lock` represents an environment in which our code is known to run.  Imagine if an update to a gem is released that changes the public interface.  It could potentially break our application.  However, if our application contains a `Gemfile.lock` that specifies using the older version of the gem, then we shouldn't need to worry about the change.  Anyone running our application will be able to set up the proper environment because `Gemfile.lock` specifies a version that works.
 
 ## `bundle exec`
 
