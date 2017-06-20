@@ -151,8 +151,7 @@
       "active-record-associations-drill-at-the-races-challenge",
       "active-record-todos-challenge",
       "database-drill-activerecord-associations-challenge",
-      "db-drill-ar-symmetric-migrations-challenge",
-      "database-drill-advanced-activerecord-migrations-challenge"
+      "db-drill-ar-symmetric-migrations-challenge"
     ],
     "friday": [
       "active-record-legislators-challenge"
