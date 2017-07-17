@@ -3,15 +3,22 @@
 
 ### Core
 
-#### Warm Up
+#### Warm Up - Start Here!
 
-Clone this repo on either your personal laptop or a DBC workstation.  Create a branch and work in that branch to complete this challenge.  Push the branch when your work is complete.
+This will be your very first challenge!  Work on this one solo.  Clone this repo on either your personal laptop or a DBC workstation.  Create a branch and push it when your work is complete. Create a pull request and **do not merge it!!!** 
 
-- [Solo Warmup Challenge](../../../../warmup-challenge) Work on this challenge Solo!
+- [Solo Warmup Challenge](../../../../warmup-challenge) 
 
-### Challenges
+Feel free to ask questions of your instructors if:
+  - you get stuck
+  - anything seems unclear
+  - you want to make sure you are the right path
 
-**Read This First**
+
+
+#### Challenges
+
+**Read this before starting the challenges below**
 
 [Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
 
@@ -29,7 +36,7 @@ Clone this repo on either your personal laptop or a DBC workstation.  Create a b
 
 ### Stretch
 
-**Challenges:**
+#### Challenges
 
 - [Design Drill: Code Style](../../../../design-drill-code-style-challenge)
 - [99 Bottles](../../../../99-bottles-challenge)
