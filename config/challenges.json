@@ -68,8 +68,6 @@
       "design-drill-public-vs-private-interfaces-challenge",
       "ruby-drill-the-self-keyword-challenge",
       "ruby-drill-exploring-scope-challenge",
-      "orange-tree-1-just-oranges-challenge",
-      "orange-tree-2-groves-challenge",
       "design-drill-argument-order-dependency-challenge",
       "ruby-drill-argv-basics-challenge",
       "labyrinth-challenge",
@@ -78,9 +76,11 @@
       "boggle-2-word-checker-challenge"
     ],
     "tuesday": [
-      "parsing-data-1-csv-in-csv-out-challenge",
+      "orange-tree-1-just-oranges-challenge",
+      "orange-tree-2-groves-challenge",
       "design-drill-classical-inheritance-challenge",
       "cookies-and-ovens-challenge",
+      "parsing-data-1-csv-in-csv-out-challenge",
       "hospital-interface-challenge",
       "parsing-data-2-csv-in-anything-out-challenge"
     ],

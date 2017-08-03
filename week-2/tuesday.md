@@ -7,9 +7,11 @@
 
 **Challenges**
 
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
+- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 - [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 **Prep for Tomorrow**
 - Watch [Refactoring with Modules & Inheritance](https://talks.devbootcamp.com/refactoring-with-modules-and-inheritance) (closed captioning available)
