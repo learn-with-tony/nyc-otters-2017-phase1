@@ -16,6 +16,7 @@ your faciliatators. The first topic is: **Tech Landscape**_
 - [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)
 - [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 - [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 **Prep for Tomorrow**
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.

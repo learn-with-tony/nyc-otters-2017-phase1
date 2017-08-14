@@ -69,15 +69,16 @@
       "ruby-drill-accessor-methods-challenge",
       "ruby-drill-argv-basics-challenge",
       "design-drill-classical-inheritance-challenge",
+      "parsing-data-1-csv-in-csv-out-challenge",
       "labyrinth-challenge",
       "ruby-racer-1-outrageous-fortune-challenge",
       "boggle-1-basic-board-generation-challenge",
       "boggle-2-word-checker-challenge"
     ],
     "tuesday": [
+      "parsing-data-1-csv-in-csv-out-challenge",
       "orange-tree-1-just-oranges-challenge",
       "orange-tree-2-groves-challenge",
-      "parsing-data-1-csv-in-csv-out-challenge",
       "cookies-and-ovens-challenge",
       "hospital-interface-challenge",
       "parsing-data-2-csv-in-anything-out-challenge"

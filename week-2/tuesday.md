@@ -7,9 +7,9 @@
 
 **Challenges**
 
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge) (Finish from yesterday)
 - [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 - [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 **Prep for Tomorrow**
