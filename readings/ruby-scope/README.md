@@ -199,7 +199,7 @@ incremented by one each time the class' `initialize` method is called:
 
 ```text
 irb> Person.new("Bob")
-irb> puts Person.stats
+irb> puts Person.count
 There are 1 people.
 
 irb> Person.new("Jill")
@@ -217,7 +217,7 @@ irb> Person.person_count
 NoMethodError: undefined method `person_count' for Person:Class
 ```
 
-You could expose the variable with a getter method similar to our `Person.stats`
+You could expose the variable with a getter method similar to our `Person.count`
 method:
 
 ```ruby
