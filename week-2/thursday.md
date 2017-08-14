@@ -5,6 +5,7 @@
 
 **Challenges**
 
+- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
 - [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 - [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
 

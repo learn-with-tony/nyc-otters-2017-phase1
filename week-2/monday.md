@@ -11,12 +11,11 @@ your faciliatators. The first topic is: **Tech Landscape**_
 
 **Challenges**
 
-- [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)
-- [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge)
-- [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
 - [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
-- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
+- [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
+- [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)
 - [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
+- [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
 
 **Prep for Tomorrow**
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.

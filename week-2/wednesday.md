@@ -10,6 +10,7 @@
 
 **Challenges**
 
+- [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge)
 - [Web Scraping Challenge](../../../../web-scraping-challenge)
 
 **Prep for Tomorrow**

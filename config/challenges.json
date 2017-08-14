@@ -64,12 +64,11 @@
   },
   "week-2": {
     "monday": [
-      "ruby-drill-accessor-methods-challenge",
-      "design-drill-public-vs-private-interfaces-challenge",
-      "ruby-drill-the-self-keyword-challenge",
       "ruby-drill-exploring-scope-challenge",
-      "design-drill-argument-order-dependency-challenge",
+      "ruby-drill-the-self-keyword-challenge",
+      "ruby-drill-accessor-methods-challenge",
       "ruby-drill-argv-basics-challenge",
+      "design-drill-classical-inheritance-challenge",
       "labyrinth-challenge",
       "ruby-racer-1-outrageous-fortune-challenge",
       "boggle-1-basic-board-generation-challenge",
@@ -78,21 +77,22 @@
     "tuesday": [
       "orange-tree-1-just-oranges-challenge",
       "orange-tree-2-groves-challenge",
-      "design-drill-classical-inheritance-challenge",
-      "cookies-and-ovens-challenge",
       "parsing-data-1-csv-in-csv-out-challenge",
+      "cookies-and-ovens-challenge",
       "hospital-interface-challenge",
       "parsing-data-2-csv-in-anything-out-challenge"
     ],
     "wednesday": [
       "algorithms-and-oo-checkpoint-challenge",
       "alt-algorithms-and-oo-checkpoint-challenge",
+      "design-drill-public-vs-private-interfaces-challenge",
       "web-scraping-challenge",
       "scraping-hn-1-building-objects-challenge",
       "scraping-hn-2-saving-to-csv-challenge",
       "the-rational-numbers-challenge"
     ],
     "thursday": [
+      "design-drill-argument-order-dependency-challenge",
       "world-s-simplest-browser-challenge",
       "ruby-todos-1-0-core-features-challenge",
       "ruby-todos-2-0-additional-features-challenge"
