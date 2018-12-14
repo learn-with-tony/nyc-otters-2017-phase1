@@ -39,38 +39,6 @@
   </tr>
 </table>
 
-## Weekly Groups
-
-Find your weekly groups [here](../../wiki/Groups).
-
-## Weekly Cadence
-
-- Engineering Empathy (EE):
-  - Week 1 Tuesday: Feedback & Teamwork (4:00pm-5:30pm)
-  - Week 2 Thursday: Resilience & the Inner Critic (4:00pm-5:30pm)
-- Careers:
-  - Week 2 Tuesday: Workshop on Tech Landscape (3:00pm-3:30pm)
-  - Week 3 Friday: Workshop on Tech Resumes (11:30am-12:00pm)
-- Cohort Fun Activities:
-  - Improv Experience: Week 2, Friday (2:10pm-3:40pm)
-- Assessment:
-  - Week 3 Wednesday
-  - The Challenge - 9:00am - 12:30pm
-  - Code Reviews start in the afternoon
-
-## Daily Cadence
-
-Time    | Activity
----     | ---
-8:45am  | Check in with accountability buddies
-9:00am  | Daily Progress Checkin
-9:15am  | Challenges/Breakouts
-12:30pm | Lunch
-2:00pm  | Afternoon Announcements
-2:05pm  | Challenges/Breakouts
-6:00pm  | End of core hours
-6:00pm  | After hours learning/mentoring/solo time
-
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
