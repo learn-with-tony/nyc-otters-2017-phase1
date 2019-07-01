@@ -38,3 +38,5 @@
 - [DBC's Three Agreements](../resources/three-agreements.md) with your pairing partner. Talk about which of the three agreements you anticipate will be most difficult for you in the weeks to come and why.
 - [DBC Student Handbook:  Policies](../../../../student-handbook)
 - [Fixed vs. growth mindsets](http://qedfoundation.org/wp-content/uploads/2012/12/dweck_mindset.png)
+
+[Tuesday >>](./monday.md)
