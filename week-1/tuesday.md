@@ -34,3 +34,7 @@
 - [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
 - [A New Way to Respond to "Failure" - Tales of overcoming the Superego](http://www.youtube.com/watch?v=_tjYoKCBYag)
 - [More information on Fixed vs. Growth Mindsets](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/)
+
+---
+
+[Wednesday >>](./wednesday.md)
