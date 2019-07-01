@@ -39,4 +39,6 @@
 - [DBC Student Handbook:  Policies](../../../../student-handbook)
 - [Fixed vs. growth mindsets](http://qedfoundation.org/wp-content/uploads/2012/12/dweck_mindset.png)
 
-[Tuesday >>](./monday.md)
+---
+
+[Tuesday >>](./tuesday.md)
