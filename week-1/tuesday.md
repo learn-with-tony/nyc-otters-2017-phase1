@@ -1,12 +1,6 @@
 ## Tuesday
 ### Testing with RSpec and Enumerables
 
-### Core
-
-**NOTE**: Your first EE is today!
-
-- _90 minutes before lunch_: EE: "Feedback and Pairing."
-
 **Challenges**
 
 - [Ruby Drill: Enumerable Methods](../../../../ruby-drill-enumerable-methods-challenge)
