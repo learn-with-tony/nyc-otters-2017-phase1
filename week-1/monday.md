@@ -1,9 +1,6 @@
 ## Monday
-### Intro to DBC and Algorithms
 
-### Core
-
-#### Challenges
+### Challenges
 
 **Read this before starting the challenges below**
 
