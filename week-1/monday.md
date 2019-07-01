@@ -3,19 +3,6 @@
 
 ### Core
 
-#### Warm Up - Start Here!
-
-This will be your very first challenge!  Work on this one solo.  Clone this repo on either your personal laptop or a DBC workstation.  Create a branch and push it when your work is complete. Create a pull request and **do not merge it!!!** 
-
-- [Solo Warmup Challenge](../../../../warmup-challenge) 
-
-Feel free to ask questions of your instructors if:
-  - you get stuck
-  - anything seems unclear
-  - you want to make sure you are the right path
-
-
-
 #### Challenges
 
 **Read this before starting the challenges below**
