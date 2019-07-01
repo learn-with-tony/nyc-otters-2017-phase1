@@ -40,7 +40,6 @@
 </table>
 
 ## Additional Resources
-- [Student Handbook](../../../student-handbook)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Managing Github Notification Settings](resources/github-notification-settings.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
