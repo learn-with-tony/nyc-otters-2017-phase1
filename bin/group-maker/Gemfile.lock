@@ -4,7 +4,7 @@ GEM
     diff-lcs (1.2.5)
     garoupa (1.0.1)
       json
-    json (2.0.3)
+    json (2.3.1)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
